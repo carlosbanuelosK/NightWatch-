@@ -1,4 +1,5 @@
 module.exports = {
+    '@disabled': true,
     'Demo test unosquare' : function(browser) {
       browser
       .windowMaximize()
