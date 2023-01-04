@@ -15,7 +15,7 @@
   
     
     <testcase
-      name="Demo test unosquare" classname="unosquare.unosquare">
+      name="test command example" classname="unosquare.unosquare">
       <skipped />
     </testcase>
     

@@ -1,4 +1,5 @@
 module.exports = {
+    custom_commands_path: "./commands",
     page_objects_path:[ 'PageObjects/Unosquare','PageObjects/Nightwatch'],
     src_folders: ["Tests"],
 
