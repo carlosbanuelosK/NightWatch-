@@ -11,5 +11,10 @@
   "dependencies": {
     "chromedriver": "^108.0.0",
     "nightwatch": "^2.6.4"
+  },
+  "devDependencies": {
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "path": "^0.12.7"
   }
 }
