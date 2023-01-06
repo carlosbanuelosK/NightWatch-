@@ -1,0 +1,21 @@
+{
+  "name": "unosquare",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "nightwatch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^2.6.6"
+  },
+  "devDependencies": {
+    "chromedriver": "^108.0.0",
+    "fs": "^0.0.1-security",
+    "handlebars": "^4.7.7",
+    "path": "^0.12.7"
+  }
+}
