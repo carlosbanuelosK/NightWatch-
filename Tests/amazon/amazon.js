@@ -4,6 +4,7 @@ module.exports = {
 
     amazon
       .navigate()
+      .changeZip()
       .amazonSearch()
       .resultSearch()
     browser.end();

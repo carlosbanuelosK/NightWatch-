@@ -5,9 +5,13 @@
 
   <testsuite name="amazon.amazon"
     errors="0" failures="0" hostname="" id="" package="amazon" skipped="0"
-    tests="1" time="18.26" timestamp="">
+    tests="1" time="32.07" timestamp="">
   
-    <testcase name="test pages validation" classname="amazon.amazon" time="18.26" assertions="4">
+    <testcase name="test pages validation" classname="amazon.amazon" time="32.07" assertions="6">
+
+    
+
+    
 
     
 

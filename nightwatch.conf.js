@@ -20,6 +20,11 @@ module.exports = {
                 chromeOptions : {
                     "args" : ["start-maximized"]
                 }
+            },
+            globals: {
+                itemPrice: '',
+                detailPrice: '',
+                cartPrice: ''
             }
         }
     }
